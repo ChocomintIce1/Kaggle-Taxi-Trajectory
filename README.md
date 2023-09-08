@@ -1,4 +1,4 @@
 # Kaggle-Taxi-Trajectory
 Exploring the trajectories of all taxis running in Portual and uncovering interesting relationships using spatial databases.
 
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1PK9fXW6_GO3wN7-eBfNDZEDrkUk1cYQp/view?usp=sharing)https://drive.google.com/file/d/1PK9fXW6_GO3wN7-eBfNDZEDrkUk1cYQp/view?usp=sharing)
+![p1](https://github.com/ChocomintIce1/Kaggle-Taxi-Trajectory/assets/69633077/a4e64364-f4ee-4126-a0d3-6978c381c061)
